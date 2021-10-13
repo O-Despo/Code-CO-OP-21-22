@@ -23,7 +23,7 @@ Open source software runs on code that is publicly accessible. This also means t
 
 Linux is a open source kernel and with the addition of other software suites can be used as a Operating System. It was developed by Linus Torvalds and is now used widely on servers. 
 
-### Possible Topics of Exportation
+## Possible Topics of Exploration
 
 1. Computer Hardware: Working with computer components and building systems
 2. Web Development: Building websites front and back end
@@ -31,6 +31,6 @@ Linux is a open source kernel and with the addition of other software suites can
 4. Robotics/DIY Hardware: Working to create moving machines using Micro Controllers and Low Level Languages
 5. AI/ML: Using what ever languages we learn to program AIs
 6. Game Programing: Building games with C++ and or Python
-7. Scripting/automation: Automating repetitive tasks or really becoming a power user
+7. Scripting/automation: Automating repetitive tasks and really becoming a power user
 8. Linux: Learning about the BASH terminal and Linux Sub System
 9. Low level Programing: Programing in languages like C++ and C for low level activities.
